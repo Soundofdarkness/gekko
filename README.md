@@ -7,5 +7,5 @@
 
 Incandesce Trading Bot is a trading bot based on [Gekko](https://github.com/askmike/gekko).
 
-*Use Gekko at your own risk.*
+*Use it at your own risk.*
 
