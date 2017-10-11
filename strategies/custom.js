@@ -16,7 +16,8 @@ var strat = {};
 // Prepare everything our method needs
 strat.init = function() {
   this.currentTrend = 'long';
-  this.requiredHistory = 0;
+  this.requiredHistory = 5;
+
 }
 
 // What happens on every new candle?
